@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "name": "barsa",
+      "email": "barsaraniojha@gmail.com",
+      "password": "1",
+      "id": 1
+    }
+  ],
+  "games": [
+    {
+      "id": 1,
+      "name": "Catch Fish",
+      "image": "./fish.png"
+    },
+    {
+      "id": 2,
+      "name": "Punch Challenge",
+      "image": "./punch.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Bow & Arrow",
+      "image": "./arrow.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Hi Stricker",
+      "image": "./stricker.jpg"
+    }
+  ],
+  "cart": []
+}
